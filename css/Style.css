@@ -1,0 +1,21 @@
+.nav li
+* { 
+    margin: 0;
+    padding: o;
+    box-sizing: border-box;
+}
+    body { background-color: #018655;
+    text-align: center;}
+    main {background-color: #8BBF3A; text-decoration-color: antiquewhite;}
+ .footer {height: 200px;
+background-color: #018655; text-decoration-color: aliceblue;}
+#caja1 {background-color: aliceblue;}
+.nav .links li { display: inline-block;}
+.nav .links a {
+color: white;
+text-transform: uppercase;
+float: right;}
+
+
+.header {height: 30vh; }
+.footer {float: inline-start ;}
